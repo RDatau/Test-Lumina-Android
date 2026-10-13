@@ -1,0 +1,11 @@
+{
+  "name": "lumina-ai-android",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Native Android App build handled by Gradle'",
+    "lint": "echo 'OK'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
